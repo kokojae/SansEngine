@@ -3,6 +3,7 @@
 #include "ObjectManager.h"
 #include "Camera.h"
 #include "SansEngine.h"
+#include "Stage.h"
 
 
 Player::Player() : iIdleMax(1), iMoveMax(10), iJumpMax(5), iAtkMax(5),
